@@ -3258,7 +3258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Screw_Terminal:Screw_Terminal-2_pins"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 88.9 76.2 0)
 			(effects
 				(font
@@ -4734,7 +4734,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Screw_Terminal:Screw_Terminal-2_pins"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 190.5 68.58 0)
 			(effects
 				(font
