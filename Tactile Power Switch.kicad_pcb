@@ -113,9 +113,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "MFG/")
 		)
 	)
 	(net 0 "")
@@ -3529,7 +3529,7 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "Q4"
-			(at 0 4.500001 360)
+			(at 0 4.500001 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "db4c97f9-9252-4c57-b78c-e2af4d9988fe")
@@ -3542,7 +3542,7 @@
 			)
 		)
 		(property "Value" "NDT2955"
-			(at 0 -4.500001 360)
+			(at 0 -4.500001 0)
 			(layer "B.Fab")
 			(uuid "d1d57b82-7ec1-41c5-bea1-38206896228d")
 			(effects
