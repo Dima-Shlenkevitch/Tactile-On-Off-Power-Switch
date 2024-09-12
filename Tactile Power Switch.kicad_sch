@@ -4708,16 +4708,16 @@
 	)
 	(symbol
 		(lib_id "dk_Terminal-Blocks-Wire-to-Board:OSTTC020162")
-		(at 195.58 73.66 90)
+		(at 195.58 71.12 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cf6e4e64-b4a9-45f5-bf18-3b22c2651407")
 		(property "Reference" "J2"
-			(at 198.12 71.755 90)
+			(at 198.12 73.025 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4726,7 +4726,7 @@
 			)
 		)
 		(property "Value" "OSTTC020162"
-			(at 198.12 74.295 90)
+			(at 198.12 70.485 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4735,7 +4735,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
-			(at 190.5 68.58 0)
+			(at 190.5 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4745,7 +4745,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf"
-			(at 187.96 68.58 0)
+			(at 187.96 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4755,7 +4755,7 @@
 			)
 		)
 		(property "Description" "TERM BLK 2POS SIDE ENTRY 5MM PCB"
-			(at 170.18 68.58 0)
+			(at 170.18 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4765,7 +4765,7 @@
 			)
 		)
 		(property "Digi-Key_PN" "ED2600-ND"
-			(at 185.42 68.58 0)
+			(at 185.42 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4775,7 +4775,7 @@
 			)
 		)
 		(property "MPN" "OSTTC020162"
-			(at 182.88 68.58 0)
+			(at 182.88 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4785,7 +4785,7 @@
 			)
 		)
 		(property "Category" "Connectors, Interconnects"
-			(at 180.34 68.58 0)
+			(at 180.34 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4795,7 +4795,7 @@
 			)
 		)
 		(property "Family" "Terminal Blocks - Wire to Board"
-			(at 177.8 68.58 0)
+			(at 177.8 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4805,7 +4805,7 @@
 			)
 		)
 		(property "DK_Datasheet_Link" "http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf"
-			(at 175.26 68.58 0)
+			(at 175.26 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4815,7 +4815,7 @@
 			)
 		)
 		(property "DK_Detail_Page" "/product-detail/en/on-shore-technology-inc/OSTTC020162/ED2600-ND/614549"
-			(at 172.72 68.58 0)
+			(at 172.72 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4825,7 +4825,7 @@
 			)
 		)
 		(property "Manufacturer" "On Shore Technology Inc."
-			(at 167.64 68.58 0)
+			(at 167.64 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4835,7 +4835,7 @@
 			)
 		)
 		(property "Status" "Active"
-			(at 165.1 68.58 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.524 1.524)
