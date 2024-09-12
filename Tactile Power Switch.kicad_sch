@@ -4506,7 +4506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MOSFET:SOT223"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 116.84 73.66 0)
 			(effects
 				(font
@@ -4525,7 +4525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nP-Channel 60 V 2.5A (Ta) 3W (Ta) Surface Mount SOT-223-4\n"
+		(property "Description" "P-Channel 60 V 2.5A (Ta) 3W (Ta) Surface Mount SOT-223-4"
 			(at 116.84 73.66 0)
 			(effects
 				(font
