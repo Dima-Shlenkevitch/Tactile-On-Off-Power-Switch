@@ -486,7 +486,7 @@
       "plot": "MFG/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "to_blender/Models/Tactile Power Switch-SMD.step",
       "svg": "",
       "vrml": ""
     },
